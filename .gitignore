@@ -6,3 +6,5 @@ __pycache__/
 .streamlit/secrets.toml
 mlruns/
 mlflow.db
+models/investment_classifier.joblib
+data/processed/real_estate_ml_dataset.csv
